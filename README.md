@@ -17,7 +17,7 @@ laplace= laplacian.getLaplacianImage();
 
 ```
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-13)
+With the following software and hardware list you can run all code files present in the book (Chapter 1-14)
 
 Software and Hardware List
 
