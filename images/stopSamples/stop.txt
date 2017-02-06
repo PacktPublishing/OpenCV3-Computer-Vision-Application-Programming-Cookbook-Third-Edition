@@ -1,0 +1,9 @@
+stop00.png 1 0 0 64 64
+stop01.png 1 0 0 64 64
+stop02.png 1 0 0 64 64
+stop03.png 1 0 0 64 64
+stop04.png 1 0 0 64 64
+stop05.png 1 0 0 64 64
+stop06.png 1 0 0 64 64
+stop07.png 1 0 0 64 64
+stop08.png 1 0 0 64 64
