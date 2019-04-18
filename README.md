@@ -32,7 +32,3 @@ Software and Hardware List
 * [OpenCV 3 Blueprints](https://www.packtpub.com/application-development/opencv-3-blueprints?utm_source=GitHub&utm_medium=repository&utm_campaign=9781784399757)
 
 * [Learning OpenCV 3 Computer Vision with Python - Second Edition](https://www.packtpub.com/application-development/learning-opencv-3-computer-vision-python-second-edition?utm_source=GitHub&utm_medium=repository&utm_campaign=9781785283840)
-
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
