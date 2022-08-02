@@ -12,7 +12,6 @@ Applying Morphological Filters on gray-level images
 
 Files:
 	mserFeature.cpp
-	mserFeatures.h
 correspond to Recipe:
 Extracting distinctive regions using MSER
 
